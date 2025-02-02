@@ -1,0 +1,244 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "json",
+    "displayName": "Jason Antwi-Appah",
+    "profession": "Software Engineer",
+    "location": "Austin, TX",
+    "pronouns": "he/him",
+    "byline": "Software Engineer in Austin, TX, he/him",
+    "website": "https://jasonaa.me",
+    "websiteURL": "https://jasonaa.me",
+    "about": "I'm an computer science major at UT Dallas that loves building for the web.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [],
+  "sideProjects": [
+    {
+      "id": "YAFYj0YShZbWPZs4Z9yC",
+      "year": "Ongoing",
+      "heading": "Planner at Nebula Labs",
+      "url": null,
+      "collaborators": [],
+      "description": "Nebula Planner is a tool for UT Dallas students to create a degree plan and keep track of their graduation requirements.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Planner",
+      "company": "Nebula Labs"
+    },
+    {
+      "id": "uG7lwUod9b73chX3fESz",
+      "year": "Ongoing",
+      "heading": "Hack as a Service",
+      "url": "https://github.com/hack-as-a-service/frontend",
+      "collaborators": [],
+      "description": "Building an open-source Heroku-like PaaS with friends to provide free hosting to students and fellow Hack Club members.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Hack as a Service",
+      "company": null
+    },
+    {
+      "id": "HGVh0RXfA7emPL7Tb2KW",
+      "year": "2022",
+      "heading": "A Case Study of Leander ISD's Technical Response to COVID-19",
+      "url": null,
+      "collaborators": [],
+      "description": "Over the course of a year, I created a case study focusing on how the usage and adoption of educational technology solutions changed from before school closures due to COVID-19, to the resumption of in-person learning. I examined changes in a Central Texas school district's utilization of educational technology solutions as a result of the COVID-19 pandemic to understand pain points with current technology and infrastructure, and how educational technology can better serve the needs of educators.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "A Case Study of Leander ISD's Technical Response to COVID-19",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "4DQZ1sDYQS4hyqZPahCr",
+      "year": "2021 — 2021",
+      "heading": "Web Developer at Agora Labs (acq. Talent Protocol)",
+      "url": "https://agoralabs.xyz",
+      "collaborators": [],
+      "description": "I worked on an early MVP of the platform, a token-gated solution for creators to build online communities using the DeSo protocol.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Developer",
+      "company": "Agora Labs (acq. Talent Protocol)",
+      "location": null
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "PZ3aap1wFVZnLfvPrOqh",
+      "year": "2019 — Now",
+      "heading": "High School Diploma at Tom Glenn High School",
+      "url": "https://ghs.leanderisd.org",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "High School Diploma",
+      "school": "Tom Glenn High School",
+      "location": "Leander, TX"
+    },
+    {
+      "id": "s2uDINepahIdpwc8uJJD",
+      "year": "2022 — Now",
+      "heading": "Bachelor of Science at The University of Texas at Dallas",
+      "url": "https://utdallas.edu",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Science",
+      "school": "The University of Texas at Dallas",
+      "location": "Richardson, TX"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "V5CZekQLcdcjz7Cissmy",
+      "platform": "GitHub",
+      "handle": "jasonappah",
+      "url": "https://github.com/jasonappah"
+    },
+    {
+      "id": "PV0ZWXujRaMXXzsVsMDr",
+      "platform": "Email",
+      "handle": "hey@jasonaa.me",
+      "url": "mailto:hey@jasonaa.me"
+    },
+    {
+      "id": "piCD5KNFAzjQNit1NJBd",
+      "platform": "Website",
+      "handle": "jasonaa.me",
+      "url": "https://jasonaa.me"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "YAFYj0YShZbWPZs4Z9yC",
+          "year": "Ongoing",
+          "heading": "Planner at Nebula Labs",
+          "url": null,
+          "collaborators": [],
+          "description": "Nebula Planner is a tool for UT Dallas students to create a degree plan and keep track of their graduation requirements.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Planner",
+          "company": "Nebula Labs"
+        },
+        {
+          "id": "uG7lwUod9b73chX3fESz",
+          "year": "Ongoing",
+          "heading": "Hack as a Service",
+          "url": "https://github.com/hack-as-a-service/frontend",
+          "collaborators": [],
+          "description": "Building an open-source Heroku-like PaaS with friends to provide free hosting to students and fellow Hack Club members.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Hack as a Service",
+          "company": null
+        },
+        {
+          "id": "HGVh0RXfA7emPL7Tb2KW",
+          "year": "2022",
+          "heading": "A Case Study of Leander ISD's Technical Response to COVID-19",
+          "url": null,
+          "collaborators": [],
+          "description": "Over the course of a year, I created a case study focusing on how the usage and adoption of educational technology solutions changed from before school closures due to COVID-19, to the resumption of in-person learning. I examined changes in a Central Texas school district's utilization of educational technology solutions as a result of the COVID-19 pandemic to understand pain points with current technology and infrastructure, and how educational technology can better serve the needs of educators.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "A Case Study of Leander ISD's Technical Response to COVID-19",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "4DQZ1sDYQS4hyqZPahCr",
+          "year": "2021 — 2021",
+          "heading": "Web Developer at Agora Labs (acq. Talent Protocol)",
+          "url": "https://agoralabs.xyz",
+          "collaborators": [],
+          "description": "I worked on an early MVP of the platform, a token-gated solution for creators to build online communities using the DeSo protocol.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Developer",
+          "company": "Agora Labs (acq. Talent Protocol)",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "PZ3aap1wFVZnLfvPrOqh",
+          "year": "2019 — Now",
+          "heading": "High School Diploma at Tom Glenn High School",
+          "url": "https://ghs.leanderisd.org",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "High School Diploma",
+          "school": "Tom Glenn High School",
+          "location": "Leander, TX"
+        },
+        {
+          "id": "s2uDINepahIdpwc8uJJD",
+          "year": "2022 — Now",
+          "heading": "Bachelor of Science at The University of Texas at Dallas",
+          "url": "https://utdallas.edu",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Science",
+          "school": "The University of Texas at Dallas",
+          "location": "Richardson, TX"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "V5CZekQLcdcjz7Cissmy",
+          "platform": "GitHub",
+          "handle": "jasonappah",
+          "url": "https://github.com/jasonappah"
+        },
+        {
+          "id": "PV0ZWXujRaMXXzsVsMDr",
+          "platform": "Email",
+          "handle": "hey@jasonaa.me",
+          "url": "mailto:hey@jasonaa.me"
+        },
+        {
+          "id": "piCD5KNFAzjQNit1NJBd",
+          "platform": "Website",
+          "handle": "jasonaa.me",
+          "url": "https://jasonaa.me"
+        }
+      ]
+    }
+  ]
+}
